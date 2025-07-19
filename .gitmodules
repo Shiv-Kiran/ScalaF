@@ -1,0 +1,6 @@
+[submodule "ScalaRefactoringBackend"]
+	path = ScalaRefactoringBackend
+	url = https://github.com/Shiv-Kiran/ScalaRefactoringBackend.git
+[submodule "scala-func-refactor-VSCPlugin"]
+	path = scala-func-refactor-VSCPlugin
+	url = https://github.com/Shiv-Kiran/scala-func-refactor-VSCPlugin.git
